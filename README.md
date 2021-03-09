@@ -3,5 +3,5 @@ tutorial
 Hi all this is my first project
 test
 
-test
-test
+type in streamlit run testing.py into terminal to launch the local URL
+
